@@ -1,8 +1,8 @@
 ## 프로젝트 - Glemoa
 
 ---
+<img width="1852" height="1181" alt="Glemoa 아키텍처 drawio" src="https://github.com/user-attachments/assets/f3089424-d14a-44ee-a756-41894fd399a4" />
 
-![Glemoa 아키텍처.drawio.png](attachment:ce8f6bd6-78f7-4235-9f91-39a0dfb0dfe3:Glemoa_아키텍처.drawio.png)
 
 ### 소개
 
