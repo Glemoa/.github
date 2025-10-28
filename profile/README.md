@@ -3,6 +3,7 @@
 ---
 <img width="1852" height="1181" alt="Glemoa 아키텍처 drawio" src="https://github.com/user-attachments/assets/f3089424-d14a-44ee-a756-41894fd399a4" />
 
+https://www.glemoa.shop/
 
 ### 소개
 
